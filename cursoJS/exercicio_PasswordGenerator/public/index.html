@@ -12,25 +12,19 @@
 
   <section class="container">
     <h1>Gerador de Senhas</h1>
-    <div class="senha-gerada"></div>
+    <div class="senha-gerada">Selecione as opções</div>
 
 
-      <label for="quantidade-char">Quantidade de caracteres</label>
-      <input type="number" name="quantidade-char" id="quantidade-char"><br>
+      Quantidade de caracteres  <input value="20" type="number" id="quantidade-char" min="1" max="50" class="qtd-caracteres"><br>
+      
+      Adicionar maiúsculas      <input type="checkbox" class="chk-maiusculas" checked><br>
+      
+      Letras minúsculas         <input type="checkbox" class="chk-minusculas"><br>
 
-      <label for="numeros">Adicionar números</label>
-      <input type="checkbox" name="numeros" id="numeros"><br>
+      Adicionar números         <input type="checkbox" class="chk-numeros"><br>
+      Letras símbolos           <input type="checkbox" class="chk-simbolos" checked><br>
 
-      <label for="letras-grandes">Letras maiúsculas</label>
-      <input type="checkbox" name="letras-grandes" id="letras-grandes"><br>
-
-      <label for="letras-pequenas">Letras minúsculas</label>
-      <input type="checkbox" name="letras-pequenas" id="letras-pequenas"><br>
-
-      <label for="letras-simbolos">Letras símbolos</label>
-      <input type="checkbox" name="letras-simbolos" id="letras-simbolos"><br>
-
-      <button type="submit" id="gerarSenha">Gerar senha</button>
+      <button type="submit" class="gerar-senha">Gerar senha</button>
 
 
   </section>

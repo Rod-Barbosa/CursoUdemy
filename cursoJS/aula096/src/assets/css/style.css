@@ -63,19 +63,10 @@ form button:hover {
 }
 
 .senha-gerada {
-  font-size: 2em;
+  font-size: 1.7em;
   color: var(--primary-color);
   text-align: center;
   font-weight: bold;
-  margin: 40px 0;
+  margin-bottom: 40px;
   letter-spacing: 3px;
-}
-input[type="checkbox"] {
-  width: 25px;
-  height: 25px;
-}
-button {
-  display: block;
-  margin: 40px 0;
-  font-size: 1em;
 }
