@@ -4,7 +4,7 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
 ### Screenshots
 
 Calculator
- 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/calculator.png)
 
 BMI calculator
