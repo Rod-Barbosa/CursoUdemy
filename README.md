@@ -3,12 +3,12 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
 
 ### Screenshots
 
-- Calculator
-- 
+Calculator
+ 
 ![](cursoJS/screenshots/calculator.png)
 
-- BMI calculator
-- 
+BMI calculator
+ 
 ![](cursoJS/screenshots/BMI.png)
 
 
