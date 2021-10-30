@@ -1,10 +1,12 @@
 # CursoUdemy
 Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
 
+### Screensho
+
 Screenshots from various exercises:
-Calculator
+- Calculator
 ![Calculator](cursoJS/screenshots/calculator.png)
-BMI calculator
+- BMI calculator
 ![BMI](cursoJS/screenshots/BMI.png)
 
 
