@@ -5,7 +5,7 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
 
 Calculator
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](cursoJS/screenshots/calculator.png)
+![https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_calculadora](cursoJS/screenshots/calculator.png)
 
 
 BMI Calculator
