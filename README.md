@@ -32,5 +32,7 @@ Timer
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/timer.png)
 
+## Acknowledgments
+
 Repositório pra logar a meteção de 7
 Valeu mesmo pro Fredinho que novamente deu força prisso acontecer
