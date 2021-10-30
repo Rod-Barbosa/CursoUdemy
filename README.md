@@ -24,12 +24,12 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
 ![](cursoJS/screenshots/form.png)
 
 
-Task List
+[Task List](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_Lista_Tarefas)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/taskList.png)
 
 
-Timer
+[Timer](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_timer)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/timer.png)
 
