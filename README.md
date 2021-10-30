@@ -13,5 +13,10 @@ BMI calculator
 ![](cursoJS/screenshots/BMI.png)
 
 
+Fetch with Axios
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
+![](cursoJS/screenshots/fetch-axios.png)
+
+
 Repositório pra logar a meteção de 7
 Valeu mesmo pro Fredinho que novamente deu força prisso acontecer
