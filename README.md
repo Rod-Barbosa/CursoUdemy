@@ -2,8 +2,8 @@
 Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
 
 ### Screenshots
-
-[Calculator](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_calculadora)
+[Calculator App](https://rodrigo-js-calculator.netlify.app/)
+[Calculator App Code](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_calculadora)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_calculadora](cursoJS/screenshots/calculator.png)
 https://rodrigo-js-calculator.netlify.app/
