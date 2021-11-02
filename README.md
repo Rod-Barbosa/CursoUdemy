@@ -14,9 +14,11 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/BMI.png)
 
-[Task List](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_Lista_Tarefas)
+[Task List App](https://rodrigo-task-list-app.netlify.app/)
+-
+[Task List Code](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_Lista_Tarefas)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](cursoJS/screenshots/taskList.png)
+![Preview](cursoJS/screenshots/taskList.png)
 
 
 [Timer](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_timer)
