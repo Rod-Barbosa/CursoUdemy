@@ -7,8 +7,6 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
 [Calculator App Code](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_calculadora)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_calculadora](cursoJS/screenshots/calculator.png)
-https://rodrigo-js-calculator.netlify.app/
-https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_calculadora
 
 
 [BMI Calculator](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_IMC)
