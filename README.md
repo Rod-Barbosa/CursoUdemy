@@ -20,8 +20,9 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Preview](cursoJS/screenshots/taskList.png)
 
-
-[Timer](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_timer)
+[Timer App](https://rodrigo-js-timer-app.netlify.app/)
+-
+[Timer App code](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_timer)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/timer.png)
 
