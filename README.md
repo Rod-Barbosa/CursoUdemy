@@ -14,6 +14,14 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/BMI.png)
 
+[Task List](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_Lista_Tarefas)
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
+![](cursoJS/screenshots/taskList.png)
+
+
+[Timer](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_timer)
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
+![](cursoJS/screenshots/timer.png)
 
 [Fetch with Axios](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_fetch-axios)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,15 +32,6 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/form.png)
 
-
-[Task List](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_Lista_Tarefas)
- -------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](cursoJS/screenshots/taskList.png)
-
-
-[Timer](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_timer)
- -------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](cursoJS/screenshots/timer.png)
 
 ## Acknowledgments
 
