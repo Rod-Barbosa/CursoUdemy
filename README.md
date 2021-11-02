@@ -27,8 +27,9 @@ Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noS
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/fetch-axios.png)
 
-
-[Form Validation](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_formulario_validacao/modelo)
+[Form Validation](https://rodrigo-js-form-validation.netlify.app/)
+-
+[Form Validation Code](https://github.com/Rod-Barbosa/CursoUdemy/tree/main/cursoJS/exercicio_formulario_validacao/modelo)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](cursoJS/screenshots/form.png)
 
